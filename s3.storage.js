@@ -62,7 +62,7 @@ var amazonS3Storage = {
 		}
 
 		if (editor.storage.validateKey(editor.storage.key)) {
-			AWS.config.update({accessKeyId: 'AKIAIV73G2YCDHCMQ5PQ', secretAccessKey: editor.storage.key});
+			AWS.config.update({accessKeyId: '...', secretAccessKey: editor.storage.key});
 			if (!this.bucket) {
 				localStorage.storageKey = editor.storage.key;
 				this.bucket = new AWS.S3({params: {Bucket: this.bucketName}});
