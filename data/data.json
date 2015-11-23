@@ -1,8 +1,8 @@
 {
 	"/": {
-		"meta title": "Simply edit Heroku",
+		"meta title": "Simply edit Amazon S3",
 		"meta description": {
-			"content": "Example site for Simply edit on Heroku"
+			"content": "Example site for Simply edit on Amazon S3"
 		},
 		"photo": {
 			"src": "/images/photo1.jpg",
@@ -18,6 +18,6 @@
 			"class": "logo",
 			"alt": "Simply edit"
 		},
-		"contact": "<p>Username: simply<br>Password: edit</p><p><a href=\"#simply-edit\">Edit this page!</a></p>More information:&nbsp;<a href=\"https://simplyedit.io/\" title=\"Simply edit\">simplyedit.io</a>"
+		"contact": "<p><a href=\"#simply-edit\">Edit this page!</a></p>More information:&nbsp;<a href=\"https://simplyedit.io/\" title=\"Simply edit\">simplyedit.io</a>"
 	}
 }
